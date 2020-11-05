@@ -1,0 +1,10 @@
+{
+    "prefix":"!",
+    "token":"NzU3Njk3MDY5MzIxMjg5Nzc5.X2kKYg.3gX0z-CKkVps6dAI0ezHhrZ9yok",
+    "name": "rede-war",
+    "version": "1.0.0",
+    "description": "Bot Oficial da rede de servidores Rede WAR",
+    "main": "app.js",
+    "author": "npx#5824"
+    
+}
